@@ -19,8 +19,8 @@ along with "JSON(application/json)"
 
 In response it will return token
 
-for example
-eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJKeW90aSIsInVz
+for example(add prefix 'Token ' for this demo)
+Token eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJKeW90aSIsInVz
 ZXJJZCI6IjEyMyIsInJvbGUiOiJhZG1pbiJ9.OYT2dAc5q4PEEj15I_zJ-wy0Tt8bYn_Y_YERjeakq5G5l1UMfs0XOznHLMtnRyAcpdehd8LtJMqVV--WatPQow
 
 Step-2: Hit the normal web method
